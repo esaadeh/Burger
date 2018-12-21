@@ -1,7 +1,6 @@
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
   }
   
   .label {
@@ -16,4 +15,8 @@ li {
   
   .form-group {
     margin-bottom: 5px;
+  }
+
+  html {
+    /* background-image: url("../img/burger.png") */
   }
