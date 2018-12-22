@@ -1,6 +1,12 @@
+
+
 li {
     padding: 5px;
     margin: 5px;
+    width: 150px;
+    background: cornsilk;
+    border-radius: 25px;
+    text-align: center;
   }
   
   .label {
@@ -18,5 +24,16 @@ li {
   }
 
   html {
-    /* background-image: url("../img/burger.png") */
+    background: url("../img/burger.png") no-repeat center fixed; 
+    background-size: cover;
+    color: brown;
+  }
+
+  h1, h2 {
+text-align: ceter;
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    /* background: cornsilk; */
+    color: darkred;
   }
